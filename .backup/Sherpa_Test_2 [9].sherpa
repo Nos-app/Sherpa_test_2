@@ -45,7 +45,7 @@
         {
           "RelativePath": "Распознание по шаблону 1.process",
           "Main": false,
-          "Showing": true,
+          "Showing": false,
           "Pinned": false
         },
         {

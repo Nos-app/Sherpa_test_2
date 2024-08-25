@@ -45,7 +45,7 @@
         {
           "RelativePath": "Распознание по шаблону 1.process",
           "Main": false,
-          "Showing": true,
+          "Showing": false,
           "Pinned": false
         },
         {
@@ -57,7 +57,7 @@
         {
           "RelativePath": "Распознание по шаблону 3.process",
           "Main": false,
-          "Showing": false,
+          "Showing": true,
           "Pinned": false
         }
       ],
